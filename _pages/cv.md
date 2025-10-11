@@ -1,70 +1,62 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Addison Pressley - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Addison_CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [alp267@cornell.edu](mailto:alp267@cornell.edu) | | | **Phone:** 865 307 2470
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in biomedical engineering and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  GPA: 3.3/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Farragut High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** SolidWorks 
+- **Programming:** Python
+- **Tools:** PMI  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Statics HW #5**:  
+  *The goal of this project is to take an accuator and find the maximum height you can lift the greatest weight within a space of 150cm x 50 cm*  
+  - Finishing   
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **ACTprep.com - Academic Coach**  
+  February, 2023 - Present  
+  - Coaching hundreds of students to achieve increases on their ACT score 
+  - Analyzing tests and writing/recording question explanations
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- SolidWorks (I don't remember when exactly, but I recieved my certification my Senior spring of high school) 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Varsity Softball   
 
 ---
 
