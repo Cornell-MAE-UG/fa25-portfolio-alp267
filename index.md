@@ -12,5 +12,3 @@ title: Addison Pressley
 My name is {{ site.name }}, and I am a sophomore Biomedical Engineering student at Cornell University. I am a member of the Cornell Varsity softball team, which takes up the majority of my time, however, I am very interested in getting more experiences with biomechanics and analysis of biomechanics data in athletic settings.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
-
-I can't figure out how to add my HW to projects, so <a href="{{ "/projects/2025-Statics-HW-12" | relative_url }}">HERE</a> it is
